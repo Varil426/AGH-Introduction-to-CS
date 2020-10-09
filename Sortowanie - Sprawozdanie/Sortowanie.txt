@@ -1,0 +1,14 @@
+Bubble Sort DONE
+Insertion Sort DONE
+Selection Sort DONE
+Quick Sort DONE
+Merge Sort DONE
+Heap Sort DONE
+Bucket Sort DONE
+Radix Sort
+
+Quick Sort - inna metoda wybierania piwotu
+Merge Sort - przepisać
+Heap Sort - przepisać
+
+Zrobić menu, automatyczne losowanie i liczenie

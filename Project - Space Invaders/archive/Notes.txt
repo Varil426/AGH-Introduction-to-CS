@@ -1,0 +1,9 @@
+Strzelanie po 2 strzały
+Tempo strzelania przeciwnków, zależne od stage
+Bonusowy statek
+Boss - lasery po bokach lub na środku, strzela w pozycję gracza po skosie
+Health Bar - przeciwnicy z większą ilością HP
+Dodać Warstwę Graficzną (Grafika Pocisków, Grafika Kamieni)
+Efekty dźwiękowe
+Co gdyby nie było settings.json
+2 players mode (Punkty przydzielane na podstawie koloru pocisku)

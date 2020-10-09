@@ -1,0 +1,6 @@
+Modes:
+	- Space Invaders
+	- Bullet Hell
+	- Story Mode
+
+Pygame czy Turtle (oba?)
